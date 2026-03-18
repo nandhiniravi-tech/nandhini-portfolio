@@ -1,12 +1,13 @@
-# My- Portfolio
+# Nandhini Ravi — Portfolio
 
-Built this using HTML and CSS while learning web development.
+This is my personal portfolio website built using HTML and CSS while learning web development.
 
-🔗 https://nandhiniravi-tech.github.io
+🔗 Live Website  
+https://nandhiniravi-tech.github.io
 
-## What's inside
-- About me
-- Skills & coursework
+## Sections
+- About Me
+- Skills
 - Certifications
 - Projects
 - Contact
