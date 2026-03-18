@@ -3,7 +3,7 @@
 This is my personal portfolio website built using HTML and CSS while learning web development.
 
 🔗 Live Website  
-https://nandhiniravi-tech.github.io
+https://nandhiniravi-tech.github.io/nandhini-portfolio/
 
 ## Sections
 - About Me
